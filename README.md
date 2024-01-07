@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-RTK%20Query-333?style=for-the-badge&logo=react%20query&logoColor=white" alt="RTK Query Badge"/>
   <img src="https://img.shields.io/badge/Next-333?style=for-the-badge&logo=next.js" alt="Next.js Badge"/>
   <img src="https://img.shields.io/badge/Axios-333?style=for-the-badge&logo=axios" alt="Axios Badge"/>
-  <img src="https://img.shields.io/badge/React-query-333?style=for-the-badge&logo=reactquery" alt="React-query Badge"/>
+  <img src="https://img.shields.io/badge/React query-333?style=for-the-badge&logo=reactquery" alt="React query Badge"/>
   <img src="https://img.shields.io/badge/Babel-333?style=for-the-badge&logo=babel" alt="Babel Badge"/>
   <img src="https://img.shields.io/badge/Webpack-333?style=for-the-badge&logo=Webpack" alt="Webpack Badge"/>
   <img src="https://img.shields.io/badge/Jest-333?style=for-the-badge&logo=jest" alt="Jest Badge"/>
